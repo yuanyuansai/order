@@ -25,8 +25,8 @@
                     <a data-toggle="dropdown">
                         <img class="nav-user-photo" src="../assets/avatars/user.jpg" alt="Jason's Photo" />
                         <span class="user-info">
-                            <small>欢迎光临,</small>
-                            小同学
+                            <small>欢迎光临姚小媛,</small>
+                            小同学姚小媛
                         </span>
                     </a>
                 </li>
